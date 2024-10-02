@@ -16,7 +16,7 @@ export default function About({id}) {
         keen eye for design and a love for clean code, I build digital
         experiences that not only look great but perform flawlessly.
       </h1>
-      <Link to="https://drive.google.com/file/d/14nughEPudD6xZCgB5mdYrYGxh4XUebjG/view?usp=sharing" target="_blank">
+      <Link to="https://drive.google.com/file/d/18ctAlBk5ac3jFViQAHfYTTcyj5BAuO9l/view?usp=sharing" target="_blank">
       <button className="cursor-pointer group relative flex gap-1.5  border-2 w-[14rem] px-5 py-4 bg-black bg-opacity-80 text-[#f1f1f1] rounded-3xl hover:bg-opacity-70 transition font-semibold shadow-md ">
         <img src={download} alt="download icon" />
         Download Resume
